@@ -1,4 +1,3 @@
 # First-game-in-godot
-First game in godot 
-this is a first project of game in godot
+this is a project for my first game in godot                                                                                                                                  
 @josais_dev
